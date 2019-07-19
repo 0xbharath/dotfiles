@@ -17,3 +17,4 @@ I'm using a bare git repo technique to sync this repo with my dotfiles on the la
 ## Screenshots
 
 ![](setup.png)
+![](rofi.png)

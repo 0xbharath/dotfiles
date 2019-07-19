@@ -5,6 +5,7 @@ A collection of personal laptop dotfiles.
 ## The setup 
 
 - Laptop: Dell XPS 13 9350
+- OS: Debian
 - Window manager: i3wm
 - Shell: zsh
 

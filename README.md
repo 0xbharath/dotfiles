@@ -16,4 +16,4 @@ I'm using a bare git repo technique to sync this repo with my dotfiles on the la
 
 ## Screenshots
 
-![](/home/synster/setup.png)
+![](setup.png)

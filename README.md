@@ -14,6 +14,8 @@ A collection of personal laptop dotfiles.
 
 I'm using a bare git repo technique to sync this repo with my dotfiles on the laptop. The method is explained here https://www.atlassian.com/git/tutorials/dotfiles
 
+Also you can read my blog post on useful Linux command line tools - https://www.disruptivelabs.in/blog/cli-on-steroids/
+
 ## Screenshots
 
 ![](setup.png)
